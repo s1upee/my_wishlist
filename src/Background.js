@@ -3,7 +3,7 @@ import './Background.css';
 
 function Background() {
   const rows = 10;
-  const columns = 10;
+  const columns = 150;
   const hearts = [];
 
   // Генерация сердечек в шахматном порядке с уменьшающейся непрозрачностью
